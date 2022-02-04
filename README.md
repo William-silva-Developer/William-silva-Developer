@@ -1,6 +1,6 @@
 ### Olá 👋Sou William Silva
 
-- 🔭 Estou atualmente na falcudade.
+- 🔭 Estou atualmente na falcudade no curso de TSI(Tecnologias em Sistemas para Internet).
 - 🌱 Estou atualmente aprendendo Spring + Angular   
 <div align="center">
   <a href="https://github.com/William-silva-Developer">
