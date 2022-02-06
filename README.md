@@ -4,7 +4,7 @@
 - 🌱 Estou atualmente aprendendo Spring + Angular   
 <div align="center">
   <a href="https://github.com/William-silva-Developer">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=William-silva-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=William-silva-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-silva-Developer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
