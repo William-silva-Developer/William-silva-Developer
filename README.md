@@ -1,7 +1,7 @@
 ### Olá 👋Sou William Silva
 
 - 🔭 Estou atualmente na falcudade no curso de TSI(Tecnologias em Sistemas para Internet).
-- 🌱 Estou atualmente aprendendo Spring + Angular   
+- 🌱 Estou atualmente aprendendo React 
 <div align="center">
   <a href="https://github.com/William-silva-Developer">
   <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=William-silva-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
