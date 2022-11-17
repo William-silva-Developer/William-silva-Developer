@@ -1,4 +1,4 @@
-### `Olá 👋Sou William `
+### `Olá. Sou William `
 
 - 🔭 Estou atualmente na falcudade no curso de TSI(Tecnologias em Sistemas para Internet). 
 <div align="center">
