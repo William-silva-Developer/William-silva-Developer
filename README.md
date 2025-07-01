@@ -1,6 +1,7 @@
-### `Olá. Sou William`
+### `Bem-vindo ao meu GitHub`
 
-- 🔭Desenvolvedor web e mobile. 
+- 🔭 Olá, sou William, desenvolvedor com foco em tecnologias modernas e especializado em aplicações mobile utilizando React Native com Expo, além de atuar com Next.js, TypeScript e Node.js. Tenho experiência no desenvolvimento de aplicações escaláveis, responsivas e com interfaces intuitivas. Trabalho com integrações de APIs REST, gerenciamento de estado com Redux, validação com React Hook Form e bancos de dados relacionais como MySQL e PostgreSQL. Busco sempre entregar soluções bem estruturadas, eficientes e alinhadas às boas práticas de desenvolvimento.
+  
 <div align="center">
   <a href="https://github.com/William-silva-Developer">
   <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=William-silva-Developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
